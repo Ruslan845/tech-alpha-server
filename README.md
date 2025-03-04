@@ -29,22 +29,6 @@ To install and configure Tech Alpha, Follow the steps below:
 > **Note**
 > **You must have Node.js and MongoDB installed on your system!**
 
-Download or clone `Client` &  `Server` both repo and run the following command in the terminal:
-
-1. Clone the `client` repository using
-
-```
-git clone https://github.com/masudranashawon/tech-alpha.git
-```
-
-2. Clone the `server` repository using
-
-```
-git clone https://github.com/masudranashawon/tech-alpha-server.git
-```
-
-3. Install the required dependencies in both the `client` and `server` directories by running
-
 ```
 npm install
 ```
@@ -79,12 +63,6 @@ npm start
 ```
 npm run dev
 ```
-
-## Links
-
-- [Live Demo](https://tech-alpha-masud.netlify.app)
-- [Front-End Repository](https://github.com/masudranashawon/tech-alpha)
-- [Back-End Repository](https://github.com/masudranashawon/tech-alpha-server)
 
 ## Contributing
 
